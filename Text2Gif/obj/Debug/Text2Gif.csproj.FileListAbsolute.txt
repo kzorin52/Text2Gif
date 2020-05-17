@@ -1,0 +1,11 @@
+C:\Users\Kirill\source\repos\Text2Gif\Text2Gif\bin\Debug\Text2Gif.exe.config
+C:\Users\Kirill\source\repos\Text2Gif\Text2Gif\bin\Debug\Text2Gif.exe
+C:\Users\Kirill\source\repos\Text2Gif\Text2Gif\bin\Debug\Text2Gif.pdb
+C:\Users\Kirill\source\repos\Text2Gif\Text2Gif\obj\Debug\Text2Gif.csprojAssemblyReference.cache
+C:\Users\Kirill\source\repos\Text2Gif\Text2Gif\obj\Debug\Text2Gif.Form1.resources
+C:\Users\Kirill\source\repos\Text2Gif\Text2Gif\obj\Debug\Text2Gif.Properties.Resources.resources
+C:\Users\Kirill\source\repos\Text2Gif\Text2Gif\obj\Debug\Text2Gif.csproj.GenerateResource.cache
+C:\Users\Kirill\source\repos\Text2Gif\Text2Gif\obj\Debug\Text2Gif.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\Text2Gif\Text2Gif\obj\Debug\Text2Gif.exe
+C:\Users\Kirill\source\repos\Text2Gif\Text2Gif\obj\Debug\Text2Gif.pdb
+C:\Users\Kirill\source\repos\Text2Gif\Text2Gif\obj\Debug\Text2Gif.csproj.Fody.CopyLocal.cache
